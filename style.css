@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
 }
 
 body {
@@ -27,7 +28,7 @@ body {
 
 #qr {
   width: 100%;
-  max-width: 240px;
+  max-width: 280px;
   height: auto;
   border-radius: 10px;
 }
@@ -43,7 +44,7 @@ body {
 }
 
 .descrp p {
-  font-size: 0.9rem;
+  font-size: 15px;
   color: hsl(220, 15%, 55%);
   line-height: 1.4;
 }
